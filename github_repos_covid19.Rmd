@@ -7,9 +7,12 @@ output: html_document
 
 # Data sources on Github
 
-## Presidenza del Consiglio dei ministri - Dipartimento della Protezione Civile https://github.com/pcm-dpc/COVID-19
+## Presidenza del Consiglio dei ministri - Dipartimento della Protezione Civile
+
+https://github.com/pcm-dpc/COVID-19
 
 ## John Hopkins University - 
+
 https://github.com/CSSEGISandData/COVID-19
 
 # Other repos

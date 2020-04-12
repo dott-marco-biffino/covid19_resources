@@ -1,0 +1,34 @@
+---
+title: "R packages on Covid-19"
+author: "Marco Biffino"
+date: "13/4/2020"
+output: html_document
+---
+
+# Introduction
+
+Since the outbreak of Covid-19 pandemic a number of R packages have been published to help in gathering data, perform analysis, etc.
+Here I try to keep trace of all of them.
+
+# Packages for gathering data
+
+## COVID19
+
+[COVID19](https://cran.r-project.org/web/packages/COVID19/index.html) Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets
+
+## coronavirus
+
+[coronavirus](https://cran.r-project.org/web/packages/coronavirus/index.html) The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Dataset
+
+## cdccovidview
+
+[Bob Rudis](https://rud.is/b/) published is ['cdccovidview'](https://cinc.rud.is/web/packages/cdccovidview/) to gather USA CDC data from [COVIDView](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html) and [COVID-NET](https://gis.cdc.gov/grasp/COVIDNet/COVID19_3.html).
+The package 'cdccovidview' provides tools to retrieve data from USA CDC on Covid-19 pandemic. CDC provides weekly summary and interpretation of key indicators that have been adapted to track the COVID-19 pandemic in the United States, based on instruments made up for seasonal flu.
+
+## covid19italy
+
+## covid19us
+
+# Analitics
+
+## covid19.analytics
