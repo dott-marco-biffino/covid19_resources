@@ -1,0 +1,38 @@
+---
+title: "Github Repositories on Covid-19"
+author: "Marco Biffino"
+date: "13/4/2020"
+output: html_document
+---
+
+# Data sources on Github
+
+## Presidenza del Consiglio dei ministri - Dipartimento della Protezione Civile https://github.com/pcm-dpc/COVID-19
+
+## John Hopkins University - 
+https://github.com/CSSEGISandData/COVID-19
+
+# Other repos
+
+https://github.com/mcicolella/covid19-opendata
+
+https://github.com/ondata/covid19italia
+
+https://github.com/albertomercurio/covid-19_italy
+
+https://github.com/moovida/COVID-19
+
+https://github.com/leoniDEV/covid-19-report-ita
+
+https://github.com/DavideMagno/ItalianCovidData
+
+https://github.com/sarscov2-it/data
+
+https://github.com/mathdroid/covid-19-api
+
+https://github.com/enrichman/covid19
+
+https://github.com/midas-network/COVID-19
+
+
+
